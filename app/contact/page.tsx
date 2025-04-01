@@ -233,7 +233,7 @@ export default function ContactPage() {
                   <h3 className="text-lg font-bold mb-2">Phone</h3>
                   <p className="text-muted-foreground mb-2">Mon-Fri from 9am to 5pm</p>
                   <a href="tel:+15551234567" className="text-orange-500 font-medium hover:underline">
-                    (555) 123-4567
+                    (+91) 9751633118
                   </a>
                 </motion.div>
 
