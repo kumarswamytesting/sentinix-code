@@ -168,15 +168,15 @@ export default function ContactPage() {
                     <div className="flex flex-col gap-2 text-sm text-muted-foreground">
                       <div className="flex items-center">
                         <Clock className="h-4 w-4 mr-2" />
-                        <span>Mon - Fri 9:00 - 17:00</span>
+                        <span>Mon - Fri 9:00AM - 6:00PM</span>
                       </div>
                       <div className="flex items-center">
                         <Phone className="h-4 w-4 mr-2" />
-                        <span>(555) 123-4567</span>
+                        <span>(+91) 9751633118</span>
                       </div>
                       <div className="flex items-center">
                         <Mail className="h-4 w-4 mr-2" />
-                        <span>contact@sentinix.com</span>
+                        <span>ceo@sentinixtechsolutions.com</span>
                       </div>
                     </div>
                   </div>
@@ -249,8 +249,8 @@ export default function ContactPage() {
                   </div>
                   <h3 className="text-lg font-bold mb-2">Email</h3>
                   <p className="text-muted-foreground mb-2">Our friendly team is here to help</p>
-                  <a href="mailto:contact@sentinix.com" className="text-orange-500 font-medium hover:underline">
-                    contact@sentinix.com
+                  <a href="mailto:ceo@sentinixtechsolutions.com" className="text-orange-500 font-medium hover:underline">
+                  ceo@sentinixtechsolutions.com
                   </a>
                 </motion.div>
 
@@ -752,11 +752,11 @@ export default function ContactPage() {
               <ul className="space-y-2">
                 <li className="flex items-start">
                   <Phone className="h-5 w-5 mr-2 text-muted-foreground" />
-                  <span className="text-sm text-muted-foreground">(555) 123-4567</span>
+                  <span className="text-sm text-muted-foreground">(+91) 9751633118</span>
                 </li>
                 <li className="flex items-start">
                   <Mail className="h-5 w-5 mr-2 text-muted-foreground" />
-                  <span className="text-sm text-muted-foreground">contact@sentinix.com</span>
+                  <span className="text-sm text-muted-foreground">ceo@sentinixtechsolutions.com</span>
                 </li>
                 <li className="flex items-start">
                   <Clock className="h-5 w-5 mr-2 text-muted-foreground" />

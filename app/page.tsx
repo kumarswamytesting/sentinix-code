@@ -514,7 +514,7 @@ export default function Home() {
                     </div>
                     <div>
                       <h3 className="font-medium">Phone</h3>
-                      <p className="text-muted-foreground">(555) 123-4567</p>
+                      <p className="text-muted-foreground">(+91) 9751633118</p>
                     </div>
                   </div>
                   <div className="flex items-start space-x-4">
@@ -523,7 +523,7 @@ export default function Home() {
                     </div>
                     <div>
                       <h3 className="font-medium">Email</h3>
-                      <p className="text-muted-foreground">contact@sentinix.com</p>
+                      <p className="text-muted-foreground">ceo@sentinixtechsolutions.com</p>
                     </div>
                   </div>
                   <div className="flex items-start space-x-4">
