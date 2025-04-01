@@ -267,9 +267,9 @@ export default function ContactPage() {
                   <h3 className="text-lg font-bold mb-2">Office</h3>
                   <p className="text-muted-foreground mb-2">Come say hello at our office</p>
                   <p className="text-sm">
-                    123 Tech Boulevard, Suite 500
+                  162/1-A, Nadar Street, Manimoorthiswaram
                     <br />
-                    San Francisco, CA 94107
+                    Tirunelveli,627001
                   </p>
                 </motion.div>
               </div>
