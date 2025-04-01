@@ -575,7 +575,7 @@ export default function ContactPage() {
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <Button className="bg-white text-orange-500 hover:bg-orange-50">Schedule a Consultation</Button>
-                  <Button variant="outline" className="border-white text-white hover:bg-white/10">
+                  <Button variant="outline" className="border-white text-orange-500 hover:bg-white/10">
                     View Our Services
                   </Button>
                 </div>
