@@ -250,7 +250,7 @@ export default function ContactPage() {
                   <h3 className="text-lg font-bold mb-2">Email</h3>
                   <p className="text-muted-foreground mb-2">Our friendly team is here to help</p>
                   <a href="mailto:ceo@sentinixtechsolutions.com" className="text-orange-500 font-medium hover:underline">
-                  ceo@sentinixtechsolutions.com
+                    ceo@sentinixtechsolutions.com
                   </a>
                 </motion.div>
 
@@ -267,7 +267,7 @@ export default function ContactPage() {
                   <h3 className="text-lg font-bold mb-2">Office</h3>
                   <p className="text-muted-foreground mb-2">Come say hello at our office</p>
                   <p className="text-sm">
-                  162/1-A, Nadar Street, Manimoorthiswaram
+                    162/1-A, Nadar Street, Manimoorthiswaram
                     <br />
                     Tirunelveli,627001
                   </p>
@@ -412,8 +412,18 @@ export default function ContactPage() {
                 <div className="space-y-8">
                   {/* Map */}
                   <div className="bg-background rounded-lg border overflow-hidden h-[300px]">
-                    <iframe
+                    {/* <iframe
                       src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.0927348427257!2d-122.39663492392031!3d37.78117711012704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085807ded297e89%3A0x9cdf304c0b5e0a!2s123%20Main%20St%2C%20San%20Francisco%2C%20CA%2094105!5e0!3m2!1sen!2sus!4v1655338053695!5m2!1sen!2sus"
+                      width="100%"
+                      height="100%"
+                      style={{ border: 0 }}
+                      allowFullScreen
+                      loading="lazy"
+                      referrerPolicy="no-referrer-when-downgrade"
+                      title="Sentinix Office Location"
+                    ></iframe> */}
+                    <iframe
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3926.569961919616!2d77.69604937484187!3d8.73055639367195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b03f007e60c4a7b%3A0x5f8a8f6d4f6b4a99!2s162%2F1-a%2C%20Nadar%20Street%2C%20Manimoorthiswaram%2C%20Tirunelveli%20627001!5e0!3m2!1sen!2sin!4v1710000000000!5m2!1sen!2sin"
                       width="100%"
                       height="100%"
                       style={{ border: 0 }}
